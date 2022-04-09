@@ -1,6 +1,6 @@
 {
-    "token": "token_here",
-    "admin_list": [0],
+    "token": "5146219052:AAE5NZAkuPOKIVYl9AsSg4oWPdDEww_O8JU",
+    "admin_list": [1],
     "open_lobby": true,
     "enable_translations": false,
     "workers": 32,
